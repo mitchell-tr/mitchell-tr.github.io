@@ -1,6 +1,6 @@
 ---
 layout: me
-title: About Me
+title: me
 ---
 # Hi there 👋
 
